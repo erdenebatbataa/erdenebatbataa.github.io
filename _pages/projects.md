@@ -3,7 +3,7 @@ layout: page
 title: work in progress
 permalink: /Work in Progress (хийгдэж байгаа ажлууд):/
 description: ""
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
