@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied econometrics · Macro and monetary economics · Pastoral nomadism {% comment %}<a href='https://www.muls.edu.mn'>Mongolian University of Life Sciences</a>{% endcomment %}
+subtitle: Applied econometrics · Macro and monetary economics · Pastoral nomadism
 
 profile:
   align: right
