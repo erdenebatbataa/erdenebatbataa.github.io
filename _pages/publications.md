@@ -31,6 +31,7 @@ Peer-reviewed journal articles:
 2. E. Bataa, Osborn, D.R., Sensier, M. & van Dijk, D. 2014. [Identifying changes in mean, seasonality, persistence & volatility for G7 & Euro area inflation](http://onlinelibrary.wiley.com/doi/10.1111/obes.12021/abstract). Oxford Bulletin of Economics and Statistics 76(3), 360-388, [replication files](https://www.dropbox.com/s/s2sktq3ebrisy6t/OK.zip?dl=0), [pdf](https://www.dropbox.com/s/br34fewwephlxo5/10.1111_obes.12021_p.pdf?dl=0)
 
 1. E. Bataa, Osborn, D.R., Sensier, M. & van Dijk, D. 2013. [Structural breaks in the international dynamics of inflation](http://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00261). The Review of Economics and Statistics 95(2), 646-659, [replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/21473), [pdf](https://drive.google.com/file/d/0B0snGlEaFnl9S1FWZTYtSGZmQk0/view?usp=sharing)
+
 Working papers:
 
 12. Б. Эрдэнэбат, 2022. [Ерөнхийлөгчийн нэрэмжит бакалаврын тэтгэлэгт хөтөлбөр, эдийн засгийн төлөвлөлт болон алдагдах гэж буй боломж](https://www.researchgate.net/publication/360222746_Ernhijlgcijn_neremzit_bakalavryn_tetgelegt_htlbr_edijn_zasgijn_tlvllt_bolon_aldagdah_gez_buj_bolomz) (Presidential undergraduate scholarship program, central planning and the opportunities about to be lost) (in Mongolian).
