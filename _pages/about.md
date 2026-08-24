@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Erdenebat Bataa works for the [Mongolian University of Life Sciences](https://www.muls.edu.mn). #He is also an Academic Associate at the [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) in Mongolia.
+Erdenebat Bataa works for the [Mongolian University of Life Sciences](https://www.muls.edu.mn). {% comment %} He is also an Academic Associate at the [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) in Mongolia.{% endcomment %}
 
 Previously, he held administrative, research and teaching positions at [Bangor University](https://www.bangor.ac.uk) (2023-2025), the [National University of Mongolia](https://www.num.edu.mn/en/) (2010-2022), [Korea University](https://econ2.korea.ac.kr/econ/index.do) (2015-2016), [ERINA](https://www.unii.ac.jp/erina-unp/) (2018), [Lancaster University](https://www.lancaster.ac.uk/lums/our-departments/economics/) (2009-2010), and the [University of Manchester](https://www.humanities.manchester.ac.uk/economics/) (2007-2009).
 
