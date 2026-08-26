@@ -1,8 +1,11 @@
 cv_pdf: /assets/pdf/erdenebat_bataa_cv.pdf
 email: erdenebat.ba@muls.edu.mn
-rss: false
+rss_icon: false
 scholar_userid: d8GCw8UAAAAJ
-researchgate_username: Erdenebat-Bataa
-repec_username: pba666
+research_gate_profile: Erdenebat-Bataa
 linkedin_username: erdenebat-bataa
-facebook_username: erdenebat.bataa.5
+facebook_id: erdenebat.bataa.5
+custom_social:
+  logo: ai ai-repec
+  title: IDEAS/RePEc
+  url: https://ideas.repec.org/f/pba666.html
