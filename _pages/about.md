@@ -37,10 +37,10 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 
 Find me also on [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Bataa), [IDEAS/RePEc](https://ideas.repec.org/f/pba666.html), [Google Scholar](https://scholar.google.com/citations?user=d8GCw8UAAAAJ), [LinkedIn](https://www.linkedin.com/in/erdenebat-bataa/), and at [Facebook](https://www.facebook.com/erdenebat.bataa.5).
 
+<details>
+<summary><b>Монгол хэлээр унших (Click to expand)</b></summary>
 
-Би ХААИС-д ажилладаг. 
-
-Өмнө нь Уэльсийн Их Сургууль, Бангор (2023-2025), МУИС (2010-2022), Солонгосын Их Сургууль (2015-2016), ERINA (2018), Ланкастерын Их Сургууль (2009-2010), болон Манчестерийн Их Сургуульд (2007-2009) удирдах, судалгааны болон багшлах албан тушаал хашиж байсан. 
+Би ХААИС-д ажилладаг. Өмнө нь Уэльсийн Их Сургууль, Бангор (2023-2025), МУИС (2010-2022), Солонгосын Их Сургууль (2015-2016), ERINA (2018), Ланкастерын Их Сургууль (2009-2010), болон Манчестерийн Их Сургуульд (2007-2009) удирдах, судалгааны болон багшлах албан тушаал хашиж байсан. 
 
 Би Манчестерийн Их Сургуульд Эдийн засгийн ухааны докторын (PhD) зэрэг хамгаалсан бөгөөд тэндээ мөн ESRC-ийн Докторын дараах тэтгэлэгт судалгаа (Postdoctoral Fellowship) хийсэн. Миний бүтээлүүд дунд Монгол хэлээрх анхны [хугацаан цуваан эконометрикийн сурах бичиг](https://internom.mn/бараа/9789997814982-хугацаан-цуваан-эконометрик), мөн [Харвард, MIT](https://direct.mit.edu/rest/article-abstract/95/2/646/58075/Structural-Breaks-in-the-International-Dynamics-of?redirectedFrom=fulltext), [Оксфордын их сургуулиудаас](https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12021) нийтлэсэн судалгаанууд бий. 
 
@@ -49,3 +49,5 @@ Find me also on [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Ba
 Би МУИС-ийн (2012, 2017) болон Монголын Их, Дээд Сургуулиудын Консорциумын (2012) "Оны шилдэг багш-судлаач"-аар тодорч байсан бөгөөд Монгол Улсад орчин цагийн шинжлэх ухааны байгууллага үүсэж хөгжсөний 100 жилийн ойгоор Монгол Улсын Боловсрол, Шинжлэх Ухааны Яам надад Нийгмийн ухааны чиглэлийн "Эрдэм шинжилгээний шилдэг өгүүлэл" шагнал (2021) хүртээсэн. RePEc-ээс намайг Монголд буй нийт [эдийн засагчдын шилдэг 2%-д] эрэмбэлдэг (https://ideas.repec.org/top/top.mongolia.html). 
 
 Надтай холбогдох хамгийн найдвартай суваг бол имэйл бөгөөд би хэд хоногийн дотор хариулахыг хичээдэг. Намайг мөн [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Bataa), [IDEAS/RePEc](https://ideas.repec.org/f/pba666.html), [Google Scholar](https://scholar.google.com/citations?user=d8GCw8UAAAAJ), [LinkedIn](https://www.linkedin.com/in/erdenebat-bataa/), [Facebook](https://www.facebook.com/erdenebat.bataa.5) сүлжээнээс олж болно.
+</details>
+
