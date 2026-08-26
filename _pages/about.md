@@ -27,9 +27,12 @@ I work for the [Mongolian University of Life Sciences](https://www.muls.edu.mn).
 
 Previously, I held administrative, research and teaching positions at [Bangor University](https://www.bangor.ac.uk) (2023-2025), the [National University of Mongolia](https://www.num.edu.mn/en/) (2010-2022), [Korea University](https://econ2.korea.ac.kr/econ/index.do) (2015-2016), [ERINA](https://www.unii.ac.jp/erina-unp/) (2018), [Lancaster University](https://www.lancaster.ac.uk/lums/our-departments/economics/) (2009-2010), and the [University of Manchester](https://www.humanities.manchester.ac.uk/economics/) (2007-2009).
 
-I hold a PhD in Economics from the University of Manchester, where I also did my ESRC Postdoctoral Fellowship. Among my publications is the [first time-series econometrics textbook in Mongolian](https://internom.mn/бараа/9789997814982-хугацаан-цуваан-эконометрик) and scholarly articles published in internationally recognized journals, such as _The Review of Economics and Statistics_ and _The Oxford Bulletin of Economics and Statistics_. RePEc ranks me among the [top 2% of economists in Mongolia](https://ideas.repec.org/top/top.mongolia.html).
+I hold a PhD in Economics from the University of Manchester, where I also did my ESRC Postdoctoral Fellowship. Among my publications is the [first time-series econometrics textbook in Mongolian](https://internom.mn/бараа/9789997814982-хугацаан-цуваан-эконометрик) and scholarly articles published in internationally recognized journals, such as _The Review of Economics and Statistics_ and _The Oxford Bulletin of Economics and Statistics_. 
 
 I have been running "[Economists' corner](https://tsors79.blogspot.com)", a non-partisan blog on Mongolian economy, economic policy, society, and institutional reform within a broad historical and international context since 2009. I also run a [YouTube channel](https://www.youtube.com/c/Erdenebat) on econometrics and economic issues relevant to Mongolia.
+
+I was named Best Scholar-Teacher of the Year by the National University of Mongolia (2012, 2017) and by the Mongolian Consortium of Universities and Colleges (2012), and I received the Best Research Article in Social Sciences award from the Ministry of Education and Science of Mongolia (2021). RePEc ranks me among the [top 2% of economists in Mongolia](https://ideas.repec.org/top/top.mongolia.html).
+
 Email is the most reliable way to reach me, and I aim to respond within a few days.
 
 Find me also on [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Bataa), [IDEAS/RePEc](https://ideas.repec.org/f/pba666.html), [Google Scholar](https://scholar.google.com/citations?user=d8GCw8UAAAAJ), and at [LinkedIn](https://www.linkedin.com/in/erdenebat-bataa/).
