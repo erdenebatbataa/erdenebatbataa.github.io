@@ -37,7 +37,7 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 
 Find me also on [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Bataa), [IDEAS/RePEc](https://ideas.repec.org/f/pba666.html), [Google Scholar](https://scholar.google.com/citations?user=d8GCw8UAAAAJ), [LinkedIn](https://www.linkedin.com/in/erdenebat-bataa/), and at [Facebook](https://www.facebook.com/erdenebat.bataa.5).
 
-<details>
+<details markdown="1">
 <summary><b>Монгол хэлээр унших (дарж үргэлжлүүлээрэй)</b></summary>
 
 Би [Хөдөө Аж Ахуйн Их Сургуульд](https://muls.edu.mn) ажилладаг. Өмнө нь [Бангор Их Сургууль](https://bangor.ac.uk) (2023-2025), [Монгол Улсын Их Сургууль](https://num.edu.mn) (2010-2022), [Солонгос Их Сургууль](https://korea.ac.kr) (2015-2016), [ERINA](https://unii.ac.jp) (2018), [Ланкастер Их Сургууль](https://lancaster.ac.uk) (2009-2010), болон [Манчестерийн Их Сургуульд](https://manchester.ac.uk) (2007-2009) удирдах, судалгааны болон багшлах албан тушаал хашиж байсан.
@@ -51,6 +51,8 @@ Find me also on [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Ba
 Надтай холбогдох хамгийн найдвартай суваг бол имэйл бөгөөд би хэд хоногийн дотор хариулахыг хичээдэг.
 
 Намайг мөн [ResearchGate](https://www.researchgate.net/profile/Erdenebat-Bataa), [IDEAS/RePEc](https://ideas.repec.org/f/pba666.html), [Google Scholar](https://scholar.google.com/citations?user=d8GCw8UAAAAJ), [LinkedIn](https://www.linkedin.com/in/erdenebat-bataa/), болон [Facebook](https://www.facebook.com/erdenebat.bataa.5) сүлжээнээс олж болно.
+
 </details>
+
 
 
