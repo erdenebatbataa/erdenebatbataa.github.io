@@ -31,7 +31,7 @@ I hold a PhD in Economics from the University of Manchester, where I also did my
 
 I have been running "[Economists' corner](https://tsors79.blogspot.com)", a non-partisan blog on Mongolian economy, economic policy, society, and institutional reform within a broad historical and international context since 2009. I also run a [YouTube channel](https://www.youtube.com/c/Erdenebat) on econometrics and economic issues relevant to Mongolia.
 
-I was named Best Scholar-Teacher of the Year by the National University of Mongolia (2012, 2017) and by the Mongolian Consortium of Universities and Colleges (2012), and I received the Best Research Article in Social Sciences award from the Ministry of Education and Science of Mongolia (2021). RePEc ranks me among the [top 2% of economists in Mongolia](https://ideas.repec.org/top/top.mongolia.html).
+I was named Best Scholar-Teacher of the Year by the National University of Mongolia (2012, 2017) and by the Mongolian Consortium of Universities and Colleges (2012), and I received the Best Research Article in Social Sciences award from the Ministry of Education and Science of Mongolia (2021). RePEc ranks me among the [top 3 of economists in Mongolia](https://ideas.repec.org/top/top.mongolia.html).
 
 Email is the most reliable way to reach me, and I aim to respond within a few days.
 
