@@ -59,4 +59,7 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
   </a>
 </div>
 <style>footer { display: none !important; }</style>
+<div style="text-align: center; margin-top: 30px; font-size: 0.85rem; color: #828282;">
+  &copy; Copyright 2026 Erdenebat Bataa. All rights reserved.
+</div>
 
