@@ -58,8 +58,22 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
     </svg>
   </a>
 </div>
-<style>footer { display: none !important; }</style>
-<div style="text-align: center; margin-top: 30px; font-size: 0.85rem; color: #828282;">
-  &copy; Copyright 2026 Erdenebat Bataa. All rights reserved.
-</div>
+<style>
+  footer { display: none !important; }
+  .social-copyright { text-align: center; margin-top: 40px; font-size: 0.85rem; color: #828282; width: 100%; position: absolute; left: 0; bottom: -60px; }
+  .profile .social { position: relative; margin-bottom: 60px; }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var socialDiv = document.querySelector(".social");
+    if (socialDiv) {
+      var cp = document.createElement("div");
+      cp.innerHTML = "&copy; Copyright 2026 Erdenebat Bataa. All rights reserved.";
+      cp.style.cssText = "text-align: center; margin-top: 20px; font-size: 0.85rem; color: #828282; width: 100%; clear: both;";
+      socialDiv.parentNode.appendChild(cp);
+    }
+  });
+</script>
+
 
