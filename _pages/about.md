@@ -52,9 +52,10 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 
 </details>
 <div style="text-align: center; margin-top: 20px; margin-bottom: -10px;">
-  <a href="https://buymeacoffee.com" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; display: inline-block; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
+  <a href="https://buymeacoffee.com/erdenebatbataa" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; display: inline-block; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
     <svg xmlns="http://w3.org" viewBox="0 0 448 512" width="45" height="45" fill="currentColor" style="vertical-align: middle;">
       <path d="M364.6 96H320V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48v336c0 44.2 35.8 80 80 80h208c41.3 0 75.2-31.3 79.5-71.1L399 160c5.3-35.4-22.3-64-54.4-64zm-44.6 288H80c-17.7 0-32-14.3-32-32V48h224v336H240v-40c0-13.3-10.7-24-24-24s-24 10.7-24 24v40h-72zm111.4-144L415 304c-1.2 8-8 16-16 16h-34.4l14.4-128H399c15.4 0 28.5 11.2 32.4 24z"/>
     </svg>
   </a>
 </div>
+
