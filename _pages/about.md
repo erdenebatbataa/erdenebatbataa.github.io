@@ -58,4 +58,5 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
     </svg>
   </a>
 </div>
+<style>footer { display: none !important; }</style>
 
