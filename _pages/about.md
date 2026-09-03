@@ -51,37 +51,74 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 Надтай холбогдох хамгийн найдвартай суваг бол имэйл бөгөөд би хэд хоногийн дотор хариулахыг хичээдэг.
 
 </details>
+</details>
 
-<!-- 1. Buy Me a Coffee товчлуур -->
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://buymeacoffee.com" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; display: inline-block; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
-    <svg xmlns="http://w3.org" viewBox="0 0 448 512" width="45" height="45" fill="currentColor" style="vertical-align: middle;">
-      <path d="M364.6 96H320V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48v336c0 44.2 35.8 80 80 80h208c41.3 0 75.2-31.3 79.5-71.1L399 160c5.3-35.4-22.3-64-54.4-64zm-44.6 288H80c-17.7 0-32-14.3-32-32V48h224v336H240v-40c0-13.3-10.7-24-24-24s-24 10.7-24 24v40h-72zm111.4-144L415 304c-1.2 8-8 16-16 16h-34.4l14.4-128H399c15.4 0 28.5 11.2 32.4 24z"/>
-    </svg>
-  </a>
-</div>
-
-<!-- 2. Хуучин footer-ийг нуух болон ерөнхий загварын CSS -->
+<!-- Бүх зүйлийг зөвхөн CSS ашиглан хуучин footer-ийг нууж, шинэ загварт оруулах -->
 <style>
-  footer { display: none !important; }
-  /* Сошиал дүрсүүдийн доор шинэ Copyright-ийг байрлуулах тохиргоо */
-  .profile .social { 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
-    margin-bottom: 40px; 
+  /* 1. Хуучин footer-ийн илүүдэл мэдээллийг нуух (сошиал хэсгээс бусдыг) */
+  footer.page__footer {
+    padding-top: 0 !important;
+    margin-top: 20px !important;
   }
-  .profile .social .social-icons {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
+  footer.page__footer .page__footer-follow,
+  footer.page__footer .page__footer-copyright {
+    display: none !important;
+  }
+
+  /* 2. Сошиал хэсгийг босоо бүтэцтэй болгох */
+  .profile .social {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 25px !important;
+    margin-top: 40px !important;
+  }
+
+  /* 3. Сошиал дүрсүүдийн яг дээр нь "Buy Me a Coffee" товчлуурыг CSS-ээр нэмэх */
+  .profile .social::before {
+    content: "";
+    display: block;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://w3.org' viewBox='0 0 448 512' fill='%23000000'%3E%3Cpath d='M364.6 96H320V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48v336c0 44.2 35.8 80 80 80h208c41.3 0 75.2-31.3 79.5-71.1L399 160c5.3-35.4-22.3-64-54.4-64zm-44.6 288H80c-17.7 0-32-14.3-32-32V48h224v336H240v-40c0-13.3-10.7-24-24-24s-24 10.7-24 24v40h-72zm111.4-144L415 304c-1.2 8-8 16-16 16h-34.4l14.4-128H399c15.4 0 28.5 11.2 32.4 24z'/%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    order: 1;
+  }
+
+  /* 4. Сошиал дүрсүүдийг голд нь байрлуулах */
+  .profile .social ul {
+    order: 2 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* 5. Сошиал дүрсүүдийн яг доор нь шинэ Copyright бичвэрийг оруулах */
+  .profile .social::after {
+    content: "© Copyright 2026 Erdenebat Bataa. All rights reserved.";
+    display: block;
+    font-size: 0.85rem;
+    color: #828282;
+    text-align: center;
+    order: 3;
+    margin-top: 10px;
   }
 </style>
 
-<!-- 3. Шинэ Copyright хэсэг (Дүрсүүдийн доор орно) -->
-<div class="social-copyright" style="text-align: center; font-size: 0.85rem; color: #828282; width: 100%; order: 2; margin-top: 10px;">
-    &copy; Copyright 2026 Erdenebat Bataa. All rights reserved.
-</div>
-
-
+<!-- Кофены товчлуур дээр дарахад Buy Me a Coffee хуудас руу үсрэх javascript холбоос -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(function() {
+      var coffeeBtn = document.querySelector(".profile .social");
+      if(coffeeBtn) {
+        coffeeBtn.addEventListener("click", function(e) {
+          // Зөвхөн кофены дүрс (::before) дээр дарах үед холбоос ажиллана
+          if(e.offsetY < 50 && e.offsetX > (coffeeBtn.offsetWidth/2 - 25) && e.offsetX < (coffeeBtn.offsetWidth/2 + 25)) {
+            window.open("https://buymeacoffee.com", "_blank");
+          }
+        });
+      }
+    }, 500);
+  });
+</script>
