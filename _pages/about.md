@@ -49,8 +49,9 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 Би МУИС-ийн (2012, 2017) болон Монголын их, дээд сургуулиудын консорциумын (2012) "Оны шилдэг багш-судлаач"-аар тодорч байсан бөгөөд Монгол Улсын боловсрол, шинжлэх ухааны яамнаас нийгмийн ухааны чиглэлийн "Шилдэг эрдэм шинжилгээний өгүүлэл" шагнал (2021) хүртсэн. Олон улсын эдийн засагчдын эрэмбэ тогтоогч RePEc систем намайг [Монголын шилдэг 3-ын](https://ideas.repec.org/top/top.mongolia.html) нэг гэдэг.
 
 Надтай холбогдох хамгийн найдвартай суваг бол имэйл бөгөөд би хэд хоногийн дотор хариулахыг хичээдэг.
-
 </details>
+
+<!-- Buy Me a Coffee товчлуур -->
 <div style="text-align: center; margin-top: 20px; margin-bottom: -10px;">
   <a href="https://buymeacoffee.com/erdenebatbataa" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; display: inline-block; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
     <svg xmlns="http://w3.org" viewBox="0 0 448 512" width="45" height="45" fill="currentColor" style="vertical-align: middle;">
@@ -58,22 +59,17 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
     </svg>
   </a>
 </div>
+
+<!-- Загваржуулалт (CSS) -->
 <style>
   footer { display: none !important; }
-  .social-copyright { text-align: center; margin-top: 40px; font-size: 0.85rem; color: #828282; width: 100%; position: absolute; left: 0; bottom: -60px; }
-  .profile .social { position: relative; margin-bottom: 60px; }
+  .profile .social { position: relative; margin-bottom: 20px; }
 </style>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var socialDiv = document.querySelector(".social");
-    if (socialDiv) {
-      var cp = document.createElement("div");
-      cp.innerHTML = "&copy; Copyright 2026 Erdenebat Bataa. All rights reserved.";
-      cp.style.cssText = "text-align: center; margin-top: 20px; font-size: 0.85rem; color: #828282; width: 100%; clear: both;";
-      socialDiv.parentNode.appendChild(cp);
-    }
-  });
-</script>
+<!-- Шинэ цэвэрхэн Copyright хэсэг -->
+<div class="social-copyright" style="text-align: center; margin-top: 40px; font-size: 0.85rem; color: #828282; width: 100%; padding-bottom: 20px;">
+    &copy; Copyright 2026 Erdenebat Bataa. All rights reserved.
+</div>
+
 
 
