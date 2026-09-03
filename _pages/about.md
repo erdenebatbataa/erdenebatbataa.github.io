@@ -49,27 +49,39 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 Би МУИС-ийн (2012, 2017) болон Монголын их, дээд сургуулиудын консорциумын (2012) "Оны шилдэг багш-судлаач"-аар тодорч байсан бөгөөд Монгол Улсын боловсрол, шинжлэх ухааны яамнаас нийгмийн ухааны чиглэлийн "Шилдэг эрдэм шинжилгээний өгүүлэл" шагнал (2021) хүртсэн. Олон улсын эдийн засагчдын эрэмбэ тогтоогч RePEc систем намайг [Монголын шилдэг 3-ын](https://ideas.repec.org/top/top.mongolia.html) нэг гэдэг.
 
 Надтай холбогдох хамгийн найдвартай суваг бол имэйл бөгөөд би хэд хоногийн дотор хариулахыг хичээдэг.
+
 </details>
 
-<!-- Buy Me a Coffee товчлуур -->
-<div style="text-align: center; margin-top: 20px; margin-bottom: -10px;">
-  <a href="https://buymeacoffee.com/erdenebatbataa" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; display: inline-block; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
+<!-- 1. Buy Me a Coffee товчлуур -->
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://buymeacoffee.com" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none; display: inline-block; transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
     <svg xmlns="http://w3.org" viewBox="0 0 448 512" width="45" height="45" fill="currentColor" style="vertical-align: middle;">
       <path d="M364.6 96H320V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48v336c0 44.2 35.8 80 80 80h208c41.3 0 75.2-31.3 79.5-71.1L399 160c5.3-35.4-22.3-64-54.4-64zm-44.6 288H80c-17.7 0-32-14.3-32-32V48h224v336H240v-40c0-13.3-10.7-24-24-24s-24 10.7-24 24v40h-72zm111.4-144L415 304c-1.2 8-8 16-16 16h-34.4l14.4-128H399c15.4 0 28.5 11.2 32.4 24z"/>
     </svg>
   </a>
 </div>
 
-<!-- Загваржуулалт (CSS) -->
+<!-- 2. Хуучин footer-ийг нуух болон ерөнхий загварын CSS -->
 <style>
   footer { display: none !important; }
-  .profile .social { position: relative; margin-bottom: 20px; }
+  /* Сошиал дүрсүүдийн доор шинэ Copyright-ийг байрлуулах тохиргоо */
+  .profile .social { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 40px; 
+  }
+  .profile .social .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
 </style>
 
-<!-- Шинэ цэвэрхэн Copyright хэсэг -->
-<div class="social-copyright" style="text-align: center; margin-top: 40px; font-size: 0.85rem; color: #828282; width: 100%; padding-bottom: 20px;">
+<!-- 3. Шинэ Copyright хэсэг (Дүрсүүдийн доор орно) -->
+<div class="social-copyright" style="text-align: center; font-size: 0.85rem; color: #828282; width: 100%; order: 2; margin-top: 10px;">
     &copy; Copyright 2026 Erdenebat Bataa. All rights reserved.
 </div>
-
 
 
