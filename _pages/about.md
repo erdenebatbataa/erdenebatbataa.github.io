@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied econometrics · Macro and monetary economics · Pastoral nomadism
+subtitle: Economics · Pastoral nomadism · Quantitative Social Sciences
 
 profile:
   align: right
