@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Эконометрикийн хичээлүүд
+title: Эконометрикийн хичээлүүд
+description: R дээр суурилсан
 nav: true
 nav_order: 6
 ---
