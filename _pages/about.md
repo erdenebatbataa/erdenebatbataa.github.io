@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I work at the [Mongolian University of Life Sciences](https://www.muls.edu.mn). I am also an advisor to the [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) and [National Statistics Office of Mongolia](https://www.nso.mn/en).
+I work at the [Mongolian University of Life Sciences](https://www.muls.edu.mn). I am also an advisor to the [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) and the [National Statistics Office of Mongolia](https://www.nso.mn/en).
 
 Previously, I held administrative, research and teaching positions at [Bangor University](https://www.bangor.ac.uk) (2023-2025), the [National University of Mongolia](https://www.num.edu.mn/en/) (NUM, 2010-2022), [Korea University](https://econ2.korea.ac.kr/econ/index.do) (2015-2016), [ERINA](https://www.unii.ac.jp/erina-unp/) (2018), [Lancaster University](https://www.lancaster.ac.uk/lums/our-departments/economics/) (2009-2010), and the [University of Manchester](https://www.humanities.manchester.ac.uk/economics/) (2006-2009). In 2016 I taught at the NES [Center for the Study of Diversity and Social Interactions](https://www.nes.ru/research-main/research-centers/csdsi/oficzialnaya-informacziya) (CSDSI) Summer School in Krasnoyarsk and Winter School in Yekaterinburg.
 
