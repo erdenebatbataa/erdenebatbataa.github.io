@@ -42,7 +42,7 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 <summary><b>Монгол хэлээр унших (дарж үргэлжлүүлээрэй)</b></summary>
 
 
-Би [Хөдөө аж ахуйн их сургуульд](https://muls.edu.mn) багшилдаг. Бас [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) болон [Үндэсний статистикийн хороонд](https://www.nso.mn/mn) орон тооны бус зөвлөхийн алба хашдаг; Би мөн Их Британи дахь [Европын санхүүгийн хүрээлэн](https://www.bangor.ac.uk/bbs/research/ief)гийн Хариуцлагатай банкны хэлтэст харъялагддаг. 
+Би [Хөдөө аж ахуйн их сургуульд](https://muls.edu.mn) багшилдаг. Бас [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) болон [Үндэсний статистикийн хороонд](https://www.nso.mn/mn) орон тооны бус зөвлөхийн алба хашдаг; Би мөн Их Британи дахь [Европын санхүүгийн хүрээлэнгийн](https://www.bangor.ac.uk/bbs/research/ief) Хариуцлагатай банкны хэлтэст харъяалагддаг. 
 
 Өмнө нь [Уэльсийн их сургууль, Бангор](https://bangor.ac.uk) (2023-2025), [Монгол улсын их сургууль](https://num.edu.mn) (2010-2022), [Солонгос их сургууль](https://korea.ac.kr) (2015-2016), [ERINA](https://unii.ac.jp) (2018), [Ланкастерын их сургууль](https://lancaster.ac.uk) (2009-2010), болон [Манчестерийн их сургуульд](https://manchester.ac.uk) (2006-2009) ажиллаж байсан. Би 2016 онд ОХУ-ын Шинэ эдийн засгийн сургуулийн [Олон үндэстэн, нийгмийн харилцааны төвөөс](https://www.nes.ru/research-main/research-centers/csdsi/oficzialnaya-informacziya) зохион байгуулсан Красноярскийн зуны болон Екатеринбургийн өвлийн сургалтуудад багшаар ажилласан.
 
