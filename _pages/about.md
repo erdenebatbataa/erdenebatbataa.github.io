@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I work at the [Mongolian University of Life Sciences](https://www.muls.edu.mn). I am also an advisor to the [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) and the [National Statistics Office of Mongolia](https://www.nso.mn/en).
+I work at the [Mongolian University of Life Sciences](https://www.muls.edu.mn). I am also an advisor to the [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) and the [National Statistics Office of Mongolia](https://www.nso.mn/en); I am an external member of the Responsible Banking research group at the [Institute of European Finance](https://www.bangor.ac.uk/bbs/research/ief) in the UK.
 
 Previously, I held administrative, research and teaching positions at [Bangor University](https://www.bangor.ac.uk) (2023-2025), the [National University of Mongolia](https://www.num.edu.mn/en/) (NUM, 2010-2022), [Korea University](https://econ2.korea.ac.kr/econ/index.do) (2015-2016), [ERINA](https://www.unii.ac.jp/erina-unp/) (2018), [Lancaster University](https://www.lancaster.ac.uk/lums/our-departments/economics/) (2009-2010), and the [University of Manchester](https://www.humanities.manchester.ac.uk/economics/) (2006-2009). In 2016 I taught at the NES [Center for the Study of Diversity and Social Interactions](https://www.nes.ru/research-main/research-centers/csdsi/oficzialnaya-informacziya) (CSDSI) Summer School in Krasnoyarsk and Winter School in Yekaterinburg.
 
@@ -33,7 +33,7 @@ I hold a PhD in Economics from the University of Manchester, where I also did my
 
 Since 2009, I have been running "[Economists' corner](https://tsors79.blogspot.com)", a non-partisan blog on Mongolian economy, economic policy, society, and institutional reform in a broad historical and international context. I also run a [YouTube channel](https://www.youtube.com/c/Erdenebat) on econometrics and economic issues relevant to Mongolia.
 
-I was named Best Graduate in Finance by NUM's School of Economic Studies and its Alumni Association (2012), and Best Scholar-Teacher of the Year by NUM (2012, 2017) and by the Mongolian Consortium of Universities and Colleges (2012). I also received the Honored Researcher of Science title (2019) and the Best Research Article in Social Sciences award from the Ministry of Education and Science of Mongolia (2021). RePEc ranks me among the [top 3 economists in Mongolia](https://ideas.repec.org/top/top.mongolia.html).
+I was named Best Graduate in Finance by NUM's School of Economic Studies and its Alumni Association (2012), and Best Scholar-Teacher of the Year by NUM (2012, 2017) and by the Mongolian Consortium of Universities and Colleges (2012). I also received the Honorary Badge for the 100th Anniversary of the Ministry of Finance of Mongolia (2011), the 70th Anniversary Medal of NUM (2012)and the Honorary Certificate of the Mongolian Academy of Sciences (2012), the Honored Researcher of Science title (2019) and the Best Research Article in Social Sciences award from the Ministry of Education and Science of Mongolia (2021). RePEc ranks me among the [top 3 economists in Mongolia](https://ideas.repec.org/top/top.mongolia.html).
 
 Email is the most reliable way to reach me, and I aim to respond within a few days.
 
@@ -42,7 +42,7 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 <summary><b>Монгол хэлээр унших (дарж үргэлжлүүлээрэй)</b></summary>
 
 
-Би [Хөдөө аж ахуйн их сургуульд](https://muls.edu.mn) багшилдаг. Бас [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) болон [Үндэсний статистикийн хороонд](https://www.nso.mn/mn) орон тооны бус зөвлөхийн алба хашдаг.
+Би [Хөдөө аж ахуйн их сургуульд](https://muls.edu.mn) багшилдаг. Бас [National Research and Consulting Center (NRCC)](https://www.nrcc.mn/en/home-1/) болон [Үндэсний статистикийн хороонд](https://www.nso.mn/mn) орон тооны бус зөвлөхийн алба хашдаг; Би мөн Их Британи дахь [Европын санхүүгийн хүрээлэн](https://www.bangor.ac.uk/bbs/research/ief)гийн Хариуцлагатай банкны хэлтэст харъялагддаг. 
 
 Өмнө нь [Уэльсийн их сургууль, Бангор](https://bangor.ac.uk) (2023-2025), [Монгол улсын их сургууль](https://num.edu.mn) (2010-2022), [Солонгос их сургууль](https://korea.ac.kr) (2015-2016), [ERINA](https://unii.ac.jp) (2018), [Ланкастерын их сургууль](https://lancaster.ac.uk) (2009-2010), болон [Манчестерийн их сургуульд](https://manchester.ac.uk) (2006-2009) ажиллаж байсан. Би 2016 онд ОХУ-ын Шинэ эдийн засгийн сургуулийн [Олон үндэстэн, нийгмийн харилцааны төвөөс](https://www.nes.ru/research-main/research-centers/csdsi/oficzialnaya-informacziya) зохион байгуулсан Красноярскийн зуны болон Екатеринбургийн өвлийн сургалтуудад багшаар ажилласан.
 
@@ -50,7 +50,7 @@ Email is the most reliable way to reach me, and I aim to respond within a few da
 
 Би 2009 оноос хойш Монголын эдийн засаг, эдийн засгийн бодлого, нийгэм, институцийн шинэчлэлийг түүхэн болон олон улсын өргөн хүрээнд авч үздэг, улс төрийн хараат бус "[Эдийн засагчдын булан](https://tsors79.blogspot.com)" блог хөтөлж байна. Мөн Монголын эдийн засгийн тулгамдсан асуудлууд болон эконометрикийн чиглэлээр [YouTube суваг](https://www.youtube.com/c/Erdenebat) ажиллуулдаг.
 
-Би МУИС-ийн ЭЗС болон Төгсөгчдийн холбооны Санхүүгийн салбарын шилдэг төгсөгч (2012), МУИС-ийн (2012, 2017) болон Монголын их, дээд сургуулиудын консорциумын (2012) "Оны шилдэг багш-судлаач"-аар тодорч байсан бөгөөд Монгол Улсын боловсрол, шинжлэх ухааны яамнаас Шинжлэх ухааны тэргүүний ажилтан тэмдэг (2019), нийгмийн ухааны чиглэлийн "Шилдэг эрдэм шинжилгээний өгүүлэл" шагнал (2021) хүртсэн. Олон улсын эдийн засагчдын эрэмбэ тогтоогч RePEc систем намайг [Монголын шилдэг 3-ын](https://ideas.repec.org/top/top.mongolia.html) нэг гэдэг.
+Би МУИС-ийн ЭЗС болон Төгсөгчдийн холбооны Санхүүгийн салбарын шилдэг төгсөгч (2012), МУИС-ийн (2012, 2017) болон Монголын их, дээд сургуулиудын консорциумын (2012) "Оны шилдэг багш-судлаач"-аар тодорч байсан бөгөөд Монгол Улсын Сангийн яамны 100 жилийн ойн Хүндэт тэмдэг (2011), МУИС-ийн 70 жилийн ойн медаль (2012),  Монгол Улсын Шинжлэх ухааны Академийн Хүндэт жуух (2012), Монгол Улсын боловсрол, шинжлэх ухааны яамнаас Шинжлэх ухааны тэргүүний ажилтан тэмдэг (2019), нийгмийн ухааны чиглэлийн "Шилдэг эрдэм шинжилгээний өгүүлэл" шагнал (2021) хүртсэн. Олон улсын эдийн засагчдын эрэмбэ тогтоогч RePEc систем намайг [Монголын шилдэг 3-ын](https://ideas.repec.org/top/top.mongolia.html) нэг гэдэг.
 
 Надтай холбогдох хамгийн найдвартай суваг бол имэйл бөгөөд би хэд хоногийн дотор хариулахыг хичээдэг.
 
